@@ -144,7 +144,7 @@ I'm always interested in collaborating on:
 
 📧 **iqranazraja@gmail.com**
 
-💼 LinkedIn: *Add your LinkedIn URL*
+💼 LinkedIn: *(https://www.linkedin.com/in/iqranazraja/)*
 
 🌐 Portfolio: *Coming Soon*
 
