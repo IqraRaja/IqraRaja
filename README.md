@@ -12,7 +12,7 @@ Building scalable geospatial software, spatial databases, and Earth observation 
 
 I am a **Geoinformatics and Geospatial Software Engineer** with **6+ years of professional experience** in GIS, Remote Sensing, geospatial software engineering, spatial databases, scientific data management, and Earth Observation.
 
-Currently, I work as a **Student Assistant (Database Development)** at the **Institute for Technical Physics (ITEP), Karlsruhe Institute of Technology (KIT), Germany**, where I develop research databases, automate scientific workflows, and support reproducible research.
+Currently, I work as a **Research Assistant (Database Development)** at the **Institute for Technical Physics (ITEP), Karlsruhe Institute of Technology (KIT), Germany**, where I develop research databases, automate scientific workflows, and support reproducible research.
 
 I enjoy transforming complex geospatial datasets into efficient software solutions that support scientific research and environmental decision-making.
 
