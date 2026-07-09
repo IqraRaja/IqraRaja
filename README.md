@@ -49,3 +49,79 @@ I enjoy building modern geospatial software using **Python**, **PostgreSQL/PostG
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=IqraRaja&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraRaja&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=IqraRaja&theme=tokyonight"/>
+
+</p>
+
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IqraRaja&theme=tokyo-night"/>
+
+</p>
+
+
+## 🔬 Research Interests
+
+- Geospatial Software Engineering
+- Spatial Databases
+- Earth Observation
+- Scientific Data Management
+- Geospatial AI
+- Computational Geosciences
+- Terrain Analysis
+- Reproducible Research
+- Cloud Geospatial Computing
+
+
+  ## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,django,react,docker,git,linux,github,vscode"/>
+
+</p>
+
+## 🚀 Currently Working On
+
+- 🗄 Scientific Database Development
+- 🛰 Earth Observation Workflows
+- 🌍 Spatial Database Design
+- 🐍 Python Automation
+- 📊 Scientific Data Management
+- ☁ Cloud Geospatial Technologies
+
+## ⭐ Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Spatial Database Design | PostgreSQL/PostGIS database architecture |
+| Karlsruhe OSM Analysis | OpenStreetMap data analysis using Python |
+| Remote Sensing Workflows | Sentinel-2 image processing |
+| GIS Automation | Python scripts for GIS tasks |
+| STAC Platform | Modern geospatial data catalog |
+| Earth Observation Projects | Research notebooks and workflows |
+
+
+## 📫 Connect With Me
+
+- 📧 Email: iqranazraja@gmail.com
+- 💼 LinkedIn: *([add your LinkedIn URL](https://www.linkedin.com/in/iqranazraja/))*
+- 🌍 Karlsruhe, Germany
