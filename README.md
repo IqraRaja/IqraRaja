@@ -123,5 +123,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraRaja&lay
 ## 📫 Connect With Me
 
 - 📧 Email: iqranazraja@gmail.com
-- 💼 LinkedIn: *([ https://www.linkedin.com/in/iqranazraja/])  *
+- 💼 LinkedIn: https://www.linkedin.com/in/iqranazraja
 - 🌍 Karlsruhe, Germany
