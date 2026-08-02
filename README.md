@@ -1,54 +1,115 @@
-# Hi there, I'm Iqra Raja 👋
+# Hi, I'm Iqra Naz 👋
 
-<h3 align="center">Geoinformatics & Geospatial Software Engineer | Earth Observation | Python | Spatial Databases</h3>
+<h3 align="center">
+Earth Observation Researcher • Geoinformatics • Scientific Software Engineering • Geospatial Data Science
+</h3>
 
 <p align="center">
-Building scalable geospatial software, spatial databases, and Earth observation solutions for research and real-world applications.
+I develop computational methods, geospatial software, and data infrastructures that transform Earth Observation data into scientific insight.
 </p>
 
 ---
 
- <h1 align="center">
-Hi 👋 I'm Iqra Raja
-</h1>
+## 🌍 About Me
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Geoinformatics+%26+Geospatial+Software+Engineer;Python+Developer;Remote+Sensing+Specialist;Spatial+Database+Engineer;Earth+Observation+Researcher;Research+Software+Engineer" />
-</p>
+I am an Earth Observation researcher and Geoinformatics specialist with more than six years of experience at the intersection of environmental science, remote sensing, and scientific software engineering.
 
-## 👩‍💻 About Me
+My work combines **satellite remote sensing**, **environmental modelling**, **scientific computing**, and **geospatial software development** to support research in climate, disaster resilience, water resources, urban systems, and environmental monitoring.
 
-I'm a **Geoinformatics & Geospatial Software Engineer** with **6+ years of experience** developing GIS applications, spatial databases, Earth Observation workflows, and scientific software.
+I enjoy solving complex scientific problems through computational methods and building reproducible research tools that bridge environmental science and modern software engineering.
 
-Currently, I work as a **Student Assistant (Database Development)** at the **Institute for Technical Physics (ITEP), Karlsruhe Institute of Technology (KIT)**, where I develop research databases, automate scientific workflows, and support reproducible research.
+Currently, I am working as a **Research Database Developer (Research Data Management)** at the **Institute for Technical Physics (ITEP), Karlsruhe Institute of Technology (KIT)**, where I contribute to the development of research data infrastructures for experimental scientific datasets. My current interests include graph databases, metadata management, knowledge graphs, FAIR data principles, and AI-assisted scientific workflows.
 
-I enjoy building modern geospatial software using **Python**, **PostgreSQL/PostGIS**, **Django**, **React**, **GeoPandas**, **GDAL**, and cloud geospatial technologies.
+---
 
-## 🚀 Quick Facts
+## 🔬 Research Interests
 
-- 🌍 Based in Karlsruhe, Germany
-- 🎓 M.Sc. Remote Sensing & Geoinformatics @ KIT
-- 💼 Student Assistant – Database Development @ ITEP
-- 🛰 6+ Years in GIS & Remote Sensing
-- 🐍 Python Developer
-- 🗄 PostgreSQL/PostGIS
-- 🌱 Currently learning GeoAI, Cloud GIS & Distributed Geospatial Computing
+- Quantitative Earth Observation
+- Environmental Modelling
+- Geospatial Artificial Intelligence (GeoAI)
+- Remote Sensing
+- Scientific Data Management
+- Research Data Infrastructures
+- Spatial Databases
+- Graph Databases & Knowledge Graphs
+- Environmental Time-Series Analysis
+- Reproducible Scientific Computing
+- Scientific Software Engineering
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+## 💻 Technical Expertise
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### Earth Observation & Geospatial Science
 
-<img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge"/>
+- Remote Sensing
+- GIS & Spatial Analysis
+- Climate Modelling
+- Hydrological Modelling
+- Disaster Risk Modelling
+- Land Cover Classification
+- Spatial Statistics
+- Satellite Image Processing
+- Multi-source Geospatial Data Integration
 
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+### Scientific Computing
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+- Python
+- Scientific Python
+- GeoPandas
+- GDAL
+- Rasterio
+- NumPy
+- Pandas
+- PyTorch
+- TensorFlow
+- Jupyter
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+### Geospatial Software Development
 
-</p>
+- Django
+- FastAPI
+- React
+- REST APIs
+- PostgreSQL
+- PostGIS
+- Docker
+- Linux
+- Git
+
+### Research Data Engineering
+
+- Research Data Management (RDM)
+- FAIR Data Principles
+- Metadata Modelling
+- ETL Pipelines
+- Graph Databases
+- Knowledge Graphs
+- Scientific Databases
+
+---
+
+## 🚀 Current Research Focus
+
+- 🌍 Quantitative Earth Observation
+- 📡 Scientific Data Infrastructures
+- 🛰 Multi-source Earth Observation Data Integration
+- 🗄 Graph-based Research Data Management
+- 🤖 AI-assisted Scientific Workflows
+- ☁ Scalable Geospatial Computing
+
+---
+
+## 🌱 Currently Learning
+
+- Radiative Transfer Modelling
+- Environmental Process Modelling
+- Graph Neural Networks
+- Knowledge Representation
+- Agentic AI for Scientific Research
+- Distributed Geospatial Computing
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -68,60 +129,31 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraRaja&lay
 
 </p>
 
-
-## 📈 Contribution Activity
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IqraRaja&theme=tokyo-night"/>
 
 </p>
 
+---
 
-## 🔬 Research Interests
+## 📂 Featured Research Projects
 
-- Geospatial Software Engineering
-- Spatial Databases
-- Earth Observation
-- Scientific Data Management
-- Geospatial AI
-- Computational Geosciences
-- Terrain Analysis
-- Reproducible Research
-- Cloud Geospatial Computing
-
-
-  ## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,django,react,docker,git,linux,github,vscode"/>
-
-</p>
-
-## 🚀 Currently Working On
-
-- 🗄 Scientific Database Development
+- 🌍 Climate Change Modelling using CMIP5 Global Climate Models
+- 🌊 Flood Risk & Hydrological Modelling
 - 🛰 Earth Observation Workflows
-- 🌍 Spatial Database Design
-- 🐍 Python Automation
-- 📊 Scientific Data Management
-- ☁ Cloud Geospatial Technologies
+- 📡 STAC & Cloud-Optimized Geospatial Data
+- 🌱 Soil Moisture Estimation using Deep Learning
+- 🏙 Urban GIS & Spatial Planning
+- 🗄 Research Data Management Systems
+- 🌐 Geospatial Decision Support Systems
 
-## ⭐ Featured Projects
+---
 
-| Project | Description |
-|---------|-------------|
-| Spatial Database Design | PostgreSQL/PostGIS database architecture |
-| Karlsruhe OSM Analysis | OpenStreetMap data analysis using Python |
-| Remote Sensing Workflows | Sentinel-2 image processing |
-| GIS Automation | Python scripts for GIS tasks |
-| STAC Platform | Modern geospatial data catalog |
-| Earth Observation Projects | Research notebooks and workflows |
+## 🤝 Connect
 
+📍 Karlsruhe, Germany
 
-## 📫 Connect With Me
+📧 iqranazraja@gmail.com
 
-- 📧 Email: iqranazraja@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/iqranazraja
-- 🌍 Karlsruhe, Germany
+💼 LinkedIn: https://www.linkedin.com/in/iqranazraja
